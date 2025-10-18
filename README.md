@@ -15,6 +15,3 @@ Each notebook covers a different ML algorithm such as Linear Regression, Logisti
 | 9    | Random Forest                | Fruit classification            |
 
 
-Author
-Krithic K S
-B.Tech. Mechanical Engineering
